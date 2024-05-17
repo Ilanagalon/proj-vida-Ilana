@@ -15,7 +15,7 @@ textos[i].classList.add("ativo");
 }
 
 const contadores = document.querySelectorAll(".contador");
-const tempoObjetivo1 = new Date("2024-01-13T00:00:00");
+const tempoObjetivo1 = new Date("2024-12-13T00:00:00");
 const tempoObjetivo2 = new Date("2024-11-05T00:00:00");
 const tempoObjetivo3 = new Date("2024-07-05T00:00:00");
 const tempoObjetivo4 = new Date("2024-09-16T00:00:00");
